@@ -1,0 +1,65 @@
+basename $1.txt Page downloaded.
+basename $1.txt Page downloaded.
+basename $1.txt Page downloaded.
+basename $1.txt Page downloaded.
+basename $1.txt Page downloaded.
+basename $1.txt Page downloaded.
+basename *.txt Page downloaded.
+basename *.txt Page downloaded.
+basename *.txt Page downloaded.
+basename *.txt Page downloaded.
+basename *.txt Page downloaded.
+basename *.txt Page downloaded.
+*.txt Page downloaded.
+*.txt Page downloaded.
+*.txt Page downloaded.
+*.txt Page downloaded.
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune.txt Page downloaded.
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune Page downloaded.
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune Page downloaded.
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune Page downloaded.
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune Page downloaded.
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune Page downloaded.
+checksize.txt Page downloaded.
